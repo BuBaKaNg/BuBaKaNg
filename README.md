@@ -17,7 +17,7 @@
 - 📞 Phone: 0914 997 062  
 - 🔗 LinkedIn: [Your LinkedIn Profile]  
 
-![Ka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+![Ka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BuBaKaNg&show_icons=true&theme=radical)  
 
 ---
 ⭐️ *Feel free to connect and collaborate!*  
